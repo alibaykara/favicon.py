@@ -3,6 +3,8 @@ Favicon Hash Scanner
 
 install
 git clone https://github.com/alibaykara/favicon.py.git
+
+
 pip install mmh3
 
 Run
