@@ -1,4 +1,4 @@
-favicon.py
+#favicon.py
 Favicon Hash Scanner
 
 install
