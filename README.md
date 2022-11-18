@@ -7,15 +7,6 @@
 favicon.py Favicon Hash Scanner
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  git clone https://github.com/alibaykara/favicon.py.git
-```
-
-
 ## Run Locally
 
 Clone the project
