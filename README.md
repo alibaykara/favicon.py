@@ -2,6 +2,11 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/alibaykara/favicon.py?style=social)
 
 
+## Screenshots
+
+![Screenshot_1](https://user-images.githubusercontent.com/100738107/201831891-67a09ec5-97f1-49e3-9ad9-fdead9af6ccf.png)
+
+
 # favicon.py
 
 favicon.py Favicon Hash Scanner
@@ -34,11 +39,6 @@ Start the python3
 ```
 
 
-## Screenshots
-
-![Screenshot_1](https://user-images.githubusercontent.com/100738107/201831891-67a09ec5-97f1-49e3-9ad9-fdead9af6ccf.png)
-
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.alibaykara.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alibaykara/)
@@ -46,5 +46,3 @@ Start the python3
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
