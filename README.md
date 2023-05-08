@@ -20,7 +20,7 @@ Shodan search query: http.favicon.hash:708578229
 
 ```
 
-# favicon.py
+# Favicon.py
 
 favicon.py Favicon Hash Scanner
 
@@ -36,7 +36,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd favicon.py
+ cd favicon.py
 ```
 
 Install dependencies
