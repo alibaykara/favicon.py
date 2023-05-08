@@ -2,7 +2,8 @@
 
 
 ## Screenshots
-
+```bash
+ 
 ┌──(root㉿kali)-[~/favicon.py]
 └─# python3 favicon.py https://www.google.com/favicon.ico
     ____            _                               
@@ -15,7 +16,7 @@
 Hello Welcome Favicon Hash Scanner Ali Baykara
 
 Shodan search query: http.favicon.hash:708578229
-
+```
 
 # favicon.py
 
@@ -26,9 +27,7 @@ favicon.py Favicon Hash Scanner
 
 Clone the project
 
-```bash
-  git clone https://github.com/alibaykara/favicon.py.git
-```
+
 
 Go to the project directory
 
