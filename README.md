@@ -2,7 +2,7 @@
 
 
 ## Screenshots
-```bash
+```console
  
 ┌──(root㉿kali)-[~/favicon.py]
 └─# python3 favicon.py https://www.google.com/favicon.ico
