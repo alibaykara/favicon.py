@@ -1,4 +1,3 @@
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
 ![GitHub watchers](https://img.shields.io/github/watchers/alibaykara/favicon.py?style=social)
 
 
