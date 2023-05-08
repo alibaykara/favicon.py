@@ -16,6 +16,8 @@
 Hello Welcome Favicon Hash Scanner Ali Baykara
 
 Shodan search query: http.favicon.hash:708578229
+
+
 ```
 
 # favicon.py
