@@ -28,7 +28,9 @@ favicon.py Favicon Hash Scanner
 ## Run Locally
 
 Clone the project
-
+```bash
+  git clone https://github.com/alibaykara/favicon.py.git
+```
 
 
 Go to the project directory
